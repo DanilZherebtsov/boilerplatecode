@@ -3,7 +3,7 @@ import string
 
 class PasswordGenerator:
     
-    __version__ = '0.0.1'
+    __version__ = '1.0.1'
 
     def __init__(self, password_length):
         '''Generates a password of num_chars length.
@@ -45,6 +45,7 @@ class PasswordGenerator:
         password = ''.join(password)
         self.password = password
         print(f'Your new password is: {self.password}')
+        print('You are awesome!')
         
     def _get_uppercase(self):
         '''Returns a random uppercase letter'''

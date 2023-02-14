@@ -1,5 +1,5 @@
 ############################
-boilerplatecode 0.0.10 Documentation
+boilerplatecode 1.0.1 Documentation
 ############################
 Library template for 'how to publish a python package on pypi' video tutorial.
 
@@ -27,6 +27,7 @@ Logic
 
 Generates a password of a length specified by the user. The password is generated using the
 uppercase letters, lowercase letters, numbers 0 to 9 and special characters.
+Makes a user smile :)
 
 
 **Initialize PasswordGenerator**
