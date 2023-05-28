@@ -44,7 +44,7 @@ setup(
   author = 'Author Name (your name)',
   author_email = 'author@email.com',
   url = 'https://github.com/DanilZherebtsov/boilerplatecode',   # url of your github repository or to your website
-  download_url = 'https://github.com/DanilZherebtsov/boilerplatecode/archive/refs/tags/0.0.2.tar.gz',
+  download_url = 'https://github.com/DanilZherebtsov/boilerplatecode/archive/refs/tags/1.0.1.tar.gz',
   keywords = ['password', 'generate', 'password generator', 'productivity', 'tools', '...'],
   install_requires=dependencies,
   classifiers=[
